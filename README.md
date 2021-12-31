@@ -1,8 +1,8 @@
 # Java
 
-> Reporsitory for Practicing Java
+> Reporsitory for Practicing Java  
 > Name: Xinhai Zou  
-> Github: SeanMWX
+> Github: SeanMWX  
 > <font color="red">Please DO NOT COPY ANYTHING WITHOUT PERMISSIONS!</font>
 
 ## Installation 
