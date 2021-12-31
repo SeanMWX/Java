@@ -1,4 +1,4 @@
-# Python
+# Java
 
 > Reporsitory for Practicing Java
 > Name: Xinhai Zou  
